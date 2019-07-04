@@ -5,6 +5,8 @@ https://openweathermap.org/current
 
 ## Installation
 
-* export REACT_APP_WEATHER_API_KEY=YOUR_API_KEY_FROM_WEATHER_APP_API 
-* yarn install
-* yarn start
+```
+export REACT_APP_WEATHER_API_KEY=YOUR_API_KEY_FROM_WEATHER_APP_API 
+yarn install
+yarn start
+```
